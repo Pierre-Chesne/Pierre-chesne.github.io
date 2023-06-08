@@ -1,1 +1,1 @@
-# pierre-chesne.github.io :-)
+# pierre-chesne.github.io
