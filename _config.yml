@@ -1,6 +1,0 @@
-# https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-# supported themes : https://pages.github.com/themes/
-theme: jekyll-theme-cayman
-domain: pierre-chesne.github.io
-url: https://pierre-chesne.github.io
-baseurl: /Pierre-Chesne/
